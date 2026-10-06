@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
+  <img src="https://github.com/user-attachments/assets/d3c0a762-b829-45a6-9b1f-8bfe703ae039" />"
 </p>
 
 # Hi there, I'm Dipta Nandy 👋
@@ -15,36 +15,29 @@ I am a passionate and results-driven Full Stack Developer dedicated to building 
 - 💬 Ask me about **JavaScript, React ecosystem, and Web Optimization**.
 - 📫 Reach out to me via email: dipta0071@gmail.com
 
-## 🛠️ Skills & Technologies
-<!-- Visual Badges (No bullet points) -->
-<p align="left">
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="TailwindCSS"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="TypeScript"/>
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Next.js"/>
-  <img src="https://shields.io" alt="NodeJS"/>
-  <img src="https://shields.io" alt="ExpressJS"/>
-  <img src="https://shields.io" alt="MongoDB"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+### 🛠️ Skills & Technologies
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![TailwindCSS](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![NodeJS](https://shields.io)
+![ExpressJS](https://shields.io)
+![MongoDB](https://shields.io)
+![Git](https://shields.io)
+
 
 ## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>
-  <a href="https://twitter.com" target="_blank"><img src="https://shields.io" alt="Twitter"/></a>
-</p>
+<a href="https://www.linkedin.com/in/dipta-nandy-b25a29172/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/Diptanandy71/" target="_blank">
+  <img src="https://shields.io" alt="Facebook" />
+</a>
 
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="60%" />
-</p><img width="1456" height="720" alt="banner image" src="https://github.com/user-attachments/assets/0f6c4ee7-1909-4dbb-8a6c-0aa2ff341eed" />
-s" width="60%" />
-</p>
+
+
